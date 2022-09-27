@@ -2,4 +2,6 @@
 Use python scripts to test different robotics algorithms.
 
 # Server
-Utilize ```diff- socket``` and ```diff- threading``` to create a ROS-like system.
+Utilize ```socket``` and ```threading``` to create a ROS-like communication system.
+
+### How to run a server
